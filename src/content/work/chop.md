@@ -4,7 +4,7 @@ publishDate: 2022-04-30 00:00:00
 img: /assets/work/CHOP.jpg
 img_alt: CHOP logo
 description: |
-  Cardiac Centre Information Systems
+  Philadelphia, PA, USA (Hybrid)
 tags:
   - .NET Framework
   - Javascript

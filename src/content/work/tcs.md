@@ -4,7 +4,7 @@ publishDate: 2014-11-30 00:00:00
 img: /assets/work/tcs-logo.jpg
 img_alt: 3 years in TCS
 description: |
-  Bangalore India
+  Bangalore India (On-site)
 tags:
   - Design
   - Dev

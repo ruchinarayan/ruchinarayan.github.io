@@ -4,7 +4,7 @@ publishDate: 2019-05-31 00:00:00
 img: /assets/work/methodist.jpg
 img_alt: CFRI Newsletter
 description: |
-  Bioinformatics Research Specialist 
+  Memphis, TN, USA (On-site)
 tags:
   - Data Extraction
   - Dev
