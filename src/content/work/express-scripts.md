@@ -13,6 +13,15 @@ tags:
 
 #### IT Intern (Summer) 
 
+> Accredo Specialty Pharmacy
+
+(May 2016 - August 2016)
+
+<b>Role:</b> IT intern </br>
+<b>Tools Used:</b> Rest Web services, Java, Mule Framework</br>
+<b>Repository Manager:</b> SVN 
+
+<b>Responsibilities:</b> </br>
 - Worked as IT Operations (Java Development) Intern at Accredo Specialty Pharmacy unit of Express Scripts
 - Improved performance of existing web services using Ehcache implementation; Reduced 66% of actual Response Time
 - Developed REST web services for the applications using Mule framework

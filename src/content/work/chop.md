@@ -17,6 +17,13 @@ tags:
 
 > Emerging Technology and Transformation
 
+(June 2019 - April 2022)
+
+<b>Role:</b> Developer </br>
+<b>Tools Used:</b> C# .Net, SQL Server, RESTful, Twilio Studio </br>
+<b>Repository Manager:</b> Git 
+
+<b>Responsibilities:</b> </br>
 - Worked with the Emerging Technology and Transformation team within CHOP
 - Responsible for full-stack development (C#, .Net, RESTful) and Data Analytics for Cardiac Centre Information Systems
 - Integrated SQL Server for back-end, responsible for DB loads, Schema maintenance and data extractions

@@ -15,6 +15,12 @@ tags:
 
 > Children's Foundation of Research Institute
 
+(February 2017 - May 2019)
+
+<b>Role:</b> Developer </br>
+<b>Tools Used:</b> PHP, Cerner</br>
+
+<b>Responsibilities:</b> </br>
 - Worked as a Full-Stack developer with the Bio-Informatics core team at Children’s Foundation of Research Institute.
 - Leading efforts to create data visualizations using D3 and Crossfilter.
 - Front end development to enhance features of Pediatric Research Database (PRD), an in-house web application, using HTML, CSS, AJAX, PHP.

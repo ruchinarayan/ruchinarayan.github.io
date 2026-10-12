@@ -9,9 +9,21 @@ tags:
   - Full stack
   - Dev
   - Testing
+  - Node.JS
+  - Typescript
+  - MongoDB
 ---
 
 #### Full Stack Software Developer II
+> Research Platform
+
+(May 2022 - December 2024)
+
+<b>Team:</b> Matching Squad</br>
+<b>Tools Used:</b> Node, MongoDB, Postgres, AWS services</br>
+<b>Repository Manager:</b> Github
+
+<b>Responsibilities:</b> </br>
 
 - Responsible for writing Public API endpoints for the core application to be consumed by partners
 - Using Node.js with Typescript for core algorithm, MongoDB scripts for back-end migrations
