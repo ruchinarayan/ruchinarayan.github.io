@@ -15,13 +15,13 @@ tags:
 
 > Memphis Fitkids
 
-<p> Tool that provides a feature for fitness assessment, growth chart and BMI Calculation for kids. </p>
+Tool that provides a feature for fitness assessment, growth chart and BMI Calculation for kids.
 
 <a href="https://link.springer.com/article/10.1186/s12889-018-5968-6">Memphis Fitkids</a>
 
-<p> <b>Role:</b> Programmer </p>
-<p> - Developed new features using Javascript, implemented Google Analytics to gain traffic insights.</p>
-<p> - Implemented mobile friendly and responsive design in the application using Bootstrap.</p>
-<p> - Migrated the application into the secure server using Laravel (MVC framework).</p>
-<p> - Added English-Spanish translation feature for the application.</p>
+<b>Role:</b> Programmer
+- Developed new features using Javascript, implemented Google Analytics to gain traffic insights.
+- Implemented mobile friendly and responsive design in the application using Bootstrap.
+- Migrated the application into the secure server using Laravel (MVC framework).
+- Added English-Spanish translation feature for the application.
 

@@ -17,24 +17,24 @@ tags:
 
 Product Development TCS-BaNCS, Interest Management Module. The module includes the responsibility of generating monthly, quarterly interest statement for customers with a personal account or business account.
 
-<p> <b>Role:</b> Developer </p>
-<p> <b>Tools Used:</b> Eclipse, SQL Developer, iReport3.0.1, iReport5.0.0, SOAP UI </p>
-<p> <b>Repository Manager:</b> TortoiseGit, Jenkins, Artifactory </p>
+<b>Role:</b> Developer </br>
+<b>Tools Used:</b> Eclipse, SQL Developer, iReport3.0.1, iReport5.0.0, SOAP UI </br>
+<b>Repository Manager:</b> TortoiseGit, Jenkins, Artifactory </br>
 
-<p> <b>Responsibilities:</b> </p>
-<p> - Involved in prototyping and development of front end screens for NBL-Universal Banking Solution and persist the data at the back end, using Hibernate call. </p>
-<p> - Migrated screens from Struts-1 to a Struts-2 framework (MVC architecture). </p>
-<p> - Integrating soap web services with the application using WSDL and XSD files for the transactions. </p>
-<p> - Designed and customized Jasper files for the customer and internal reports. </p>
-<p> - Developed and enhanced detailed and consolidated monthly interest statements for accounts for version-3 and version-4 of the product. </p>
-<p> - Wrote SQL queries according to the functional specification document for reports and sub-reports and converting in terms of fields, variables, and parameters for Jasper files. </p>
+<b>Responsibilities:</b>
+- Involved in prototyping and development of front end screens for NBL-Universal Banking Solution and persist the data at the back end, using Hibernate call.
+- Migrated screens from Struts-1 to a Struts-2 framework (MVC architecture).
+- Integrating soap web services with the application using WSDL and XSD files for the transactions.
+- Designed and customized Jasper files for the customer and internal reports.
+- Developed and enhanced detailed and consolidated monthly interest statements for accounts for version-3 and version-4 of the product.
+- Wrote SQL queries according to the functional specification document for reports and sub-reports and converting in terms of fields, variables, and parameters for Jasper files.
 
-<p> <b>Honors and Awards:</b> </p>
-<p> <b>Special Initiative</b> award For contribution towards Delivery Excellence of the product. </p>
+<b>Honors and Awards:</b> </br>
+- <b>Special Initiative</b> award For contribution towards Delivery Excellence of the product. </br>
 <img
   width="500"
 	height="500" 
-  src="/assets/special-initiative.jpg" 
+  src="/assets/work/special-initiative.jpg" 
   alt="Special Initiative award"
 />
 
@@ -46,22 +46,22 @@ Product Development TCS-BaNCS, Interest Management Module. The module includes t
 
 Core Product of TCS-BaNCS Core Banking Solution, front end development of the teller system application. The application considered being the scalable, flexible system with an integrated customer view that has all features for different clients.
 
-<p> <b>Role:</b> Programmer Analyst </p>
-<p> <b>Tools Used:</b> Eclipse, JSP creator </p>
-<p> <b>Repository Manager:</b> TortoiseGit </p>
+<b>Role:</b> Programmer Analyst </br>
+<b>Tools Used:</b> Eclipse, JSP creator </br>
+<b>Repository Manager:</b> TortoiseGit
 
-<p> <b>Responsibilities:</b> </p>
-<p> - Worked on prototyping and development of front end screens (Transactions) for the Indian and International version of the product. </p>
-<p> - Used HTML and JSP tags for front end development. </p>
-<p> - Applied validation rules (Mandatory or Set of rules) at the front end using JavaScript functions. </p>
-<p> - Involved in developing and Unit testing of the generated screen and checklist creation. </p>
-<p> - Linked fields through various java files with Action classes, Struts framework, XML files, POJO. </p>
-<p> - Used Struts 2.0 framework and Integrated screens with the model using MVC architecture. </p>
-<p> - Managed existing screens and modification according to the new requirements. </p>
-<p> - Fixed defects for Universal Acceptance Testing and Internal Acceptance Testing. </p>
+<b>Responsibilities:</b> </br>
+- Worked on prototyping and development of front end screens (Transactions) for the Indian and International version of the product.
+- Used HTML and JSP tags for front end development.
+- Applied validation rules (Mandatory or Set of rules) at the front end using JavaScript functions.
+- Involved in developing and Unit testing of the generated screen and checklist creation.
+- Linked fields through various java files with Action classes, Struts framework, XML files, POJO.
+- Used Struts 2.0 framework and Integrated screens with the model using MVC architecture.
+- Managed existing screens and modification according to the new requirements.
+- Fixed defects for Universal Acceptance Testing and Internal Acceptance Testing.
 
-<p> <b>Honors and Awards</b> </p>
-<p> <b>On the Spot Award:</b> Able to deliver a maximum number of new transactions in the best possible time. </p>
+<b>Honors and Awards</b> </br>
+- <b>On the Spot Award:</b> Able to deliver a maximum number of new transactions in the best possible time. </br>
 <img
   width="500"
 	height="500"
@@ -69,7 +69,7 @@ Core Product of TCS-BaNCS Core Banking Solution, front end development of the te
 	alt="On the spot award"
 />
 
-<p> <b>Star of the Month:</b> Excellent turnaround in fixing the issue related to Exchange Rate. </p>
+- <b>Star of the Month:</b> Excellent turnaround in fixing the issue related to Exchange Rate. </br>
 <img
   width="500"
 	height="500"

@@ -13,6 +13,6 @@ tags:
 
 #### IT Intern (Summer) 
 
-<p> ● Worked as IT Operations (Java Development) Intern at Accredo Specialty Pharmacy unit of Express Scripts </p>
-<p> ● Improved performance of existing web services using Ehcache implementation; Reduced 66% of actual Response Time </p>
-<p> ● Developed REST web services for the applications using Mule framework </p>
+- Worked as IT Operations (Java Development) Intern at Accredo Specialty Pharmacy unit of Express Scripts
+- Improved performance of existing web services using Ehcache implementation; Reduced 66% of actual Response Time
+- Developed REST web services for the applications using Mule framework

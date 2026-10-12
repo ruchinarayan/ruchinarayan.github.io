@@ -14,7 +14,7 @@ tags:
 
 #### Software Engineering Consultant 
 
-<p> ● Developed NLP-driven search feature for a B2B SaaS product; used Apache OpenNLP, Kotlin and Gradle </p>
-<p> ● Collaborated with healthcare SMEs to optimize data labeling and model training </p>
-<p> ● Migrated legacy web apps to latest Node.js and MongoDB versions, improving system stability and performance </p>
-<p> ● Migrated MongoDB data using migration scripts; Enhanced the notification service; partnered seamlessly with QA </p>
+- Developed NLP-driven search feature for a B2B SaaS product; used Apache OpenNLP, Kotlin and Gradle
+- Collaborated with healthcare SMEs to optimize data labeling and model training
+- Migrated legacy web apps to latest Node.js and MongoDB versions, improving system stability and performance
+- Migrated MongoDB data using migration scripts; Enhanced the notification service; partnered seamlessly with QA

@@ -16,6 +16,19 @@ export const collections = {
 		}),
 	}),
 
+	education: defineCollection({
+		// Load Markdown files in the src/content/education directory.
+		loader: glob({ base: './src/content/education', pattern: '**/*.md' }),
+		schema: z.object({
+			title: z.string(),
+			description: z.string(),
+			publishDate: z.coerce.date(),
+			tags: z.array(z.string()),
+			img: z.string(),
+			img_alt: z.string().optional(),
+		}),
+	}),
+
 	volunteer: defineCollection({
 		// Load Markdown files in the src/content/volunteer directory.
 		loader: glob({ base: './src/content/volunteer', pattern: '**/*.md' }),
