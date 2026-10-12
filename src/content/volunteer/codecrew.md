@@ -14,4 +14,4 @@ tags:
 
 #### Technical Volunteer
 
-<p> Mentored participants through a live coding event, facilitating problem-solving by guiding logic rather than providing direct solutions. </p>
+Mentored participants through a live coding event, facilitating problem-solving by guiding logic rather than providing direct solutions.

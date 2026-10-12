@@ -1,15 +1,16 @@
 ---
-title: Rajasthan Technical University, Bachelor's in Information Technology
+title: Rajasthan Technical University
 publishDate: 2024-12-30 00:00:00
-img: /assets/education/ecb.jpg
-img_alt: 100 Girls of code
+img: /assets/education/rtu-logo.jpg
+img_alt: ECB logo
 description: |
-  100 Girls of Code Memphis Chapter
+  Bikaner, Rajasthan, India
 tags:
-  - Scratch
-  - teaching
+  - Java
+  - C++
+  - C
 ---
 
-
-#### Bachelor's in Information Technology
+#### Engineering College Bikaner
+> Bachelor's in Information Technology
 

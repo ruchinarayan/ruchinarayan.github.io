@@ -12,7 +12,7 @@ tags:
 
 #### Volunteer and Participation
 
-<p> Collaborated with other software developers of Memphis to work on technology problems in this hackathon.</p>
+Collaborated with other software developers of Memphis to work on technology problems in this hackathon.
 
 https://www.commercialappeal.com/story/news/2017/09/10/empty-container-three-creative-minds-leads-pure-genius-hackmemphis/629737001/
 
